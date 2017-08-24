@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# API-Curious is a project experimenting with Reddit's API.
+## The goal is to authenticate a user via OAuth, then access that user's Reddit information including subreddits subscribed to, username, and karma score.
+### To view the full project spec: http://backend.turing.io/module3/projects/apicurious
